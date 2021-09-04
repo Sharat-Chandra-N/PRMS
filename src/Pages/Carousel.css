@@ -1,0 +1,15 @@
+.carousel-section{
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    background-color: darkgrey;
+}
+
+h4{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}

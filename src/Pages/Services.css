@@ -1,0 +1,25 @@
+.single-card{
+    margin: 20px 0px;
+}
+
+.main-heading{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+@media only screen and (max-width: 990px) {
+    .media {
+        align-items: center !important;
+        width: 60% !important;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .main-container-section {
+        align-items: center !important;
+        width: 60% !important;
+        margin: auto;
+    }
+}
+

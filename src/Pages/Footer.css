@@ -1,0 +1,11 @@
+.main-footer{
+    border: 2px black solid;
+    background-color: rgb(24, 23, 23);
+}
+
+.footer-text{
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin: 5px 0px;
+}

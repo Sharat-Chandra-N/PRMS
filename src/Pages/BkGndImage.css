@@ -1,0 +1,28 @@
+.header-wrapper{
+    position: relative;
+    background: url('../Images/Human-resource-management.png');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+.info-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.info-section h2{
+    color: gold;
+}
+
+.typed-text{
+    color: yellow;
+}
