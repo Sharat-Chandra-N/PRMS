@@ -3,6 +3,7 @@ import Navbar from './Pages/Navbar'
 import './App.css'
 import BkGndImage from "./Pages/BkGndImage"
 import Services from "./Pages/Services"
+import Expertise from "./Pages/Expertise"
 import MainInfo from "./Pages/MainInfo"
 import ContactMe from "./Pages/ContactMe"
 import Footer from "./Pages/Footer"
@@ -16,6 +17,7 @@ function App() {
       <Navbar />
       <BkGndImage />
       <Services />
+      <Expertise />
       <MainInfo />
       <TimeLineElements />
       <Testimonial />
