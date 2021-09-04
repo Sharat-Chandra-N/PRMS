@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PRMS/static/css/main.93676102.chunk.css",
+    "main.js": "/PRMS/static/js/main.64791ae6.chunk.js",
+    "main.js.map": "/PRMS/static/js/main.64791ae6.chunk.js.map",
+    "runtime-main.js": "/PRMS/static/js/runtime-main.9f095989.js",
+    "runtime-main.js.map": "/PRMS/static/js/runtime-main.9f095989.js.map",
+    "static/css/2.5acdd150.chunk.css": "/PRMS/static/css/2.5acdd150.chunk.css",
+    "static/js/2.6d2aa62f.chunk.js": "/PRMS/static/js/2.6d2aa62f.chunk.js",
+    "static/js/2.6d2aa62f.chunk.js.map": "/PRMS/static/js/2.6d2aa62f.chunk.js.map",
+    "static/js/3.e9323cbe.chunk.js": "/PRMS/static/js/3.e9323cbe.chunk.js",
+    "static/js/3.e9323cbe.chunk.js.map": "/PRMS/static/js/3.e9323cbe.chunk.js.map",
+    "index.html": "/PRMS/index.html",
+    "static/css/2.5acdd150.chunk.css.map": "/PRMS/static/css/2.5acdd150.chunk.css.map",
+    "static/css/main.93676102.chunk.css.map": "/PRMS/static/css/main.93676102.chunk.css.map",
+    "static/js/2.6d2aa62f.chunk.js.LICENSE.txt": "/PRMS/static/js/2.6d2aa62f.chunk.js.LICENSE.txt",
+    "static/media/FocusArea.6c7bec14.jpg": "/PRMS/static/media/FocusArea.6c7bec14.jpg",
+    "static/media/FuncAreas.4f73c3a2.png": "/PRMS/static/media/FuncAreas.4f73c3a2.png",
+    "static/media/BkGndImage.css": "/PRMS/static/media/Human-resource-management.8cd65008.png",
+    "static/media/istockphoto-1140300365-612x612.45171f66.jpg": "/PRMS/static/media/istockphoto-1140300365-612x612.45171f66.jpg",
+    "static/media/istockphoto-1227412970-612x612.06d9afbd.jpg": "/PRMS/static/media/istockphoto-1227412970-612x612.06d9afbd.jpg",
+    "static/media/slick-theme.css": "/PRMS/static/media/slick.c94f7671.ttf",
+    "static/media/user1.7a4b608b.png": "/PRMS/static/media/user1.7a4b608b.png",
+    "static/media/user2.a6143582.png": "/PRMS/static/media/user2.a6143582.png",
+    "static/media/user3.7d6c73c8.png": "/PRMS/static/media/user3.7d6c73c8.png",
+    "static/media/user4.b50d0699.png": "/PRMS/static/media/user4.b50d0699.png",
+    "static/media/work.3710b624.svg": "/PRMS/static/media/work.3710b624.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f095989.js",
+    "static/css/2.5acdd150.chunk.css",
+    "static/js/2.6d2aa62f.chunk.js",
+    "static/css/main.93676102.chunk.css",
+    "static/js/main.64791ae6.chunk.js"
+  ]
+}
